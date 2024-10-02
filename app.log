@@ -1,0 +1,50 @@
+2024-10-02 09:08:52,933 INFO:Database initialized.
+2024-10-02 09:08:53,068 CRITICAL:Unhandled exception: '_tkinter.tkapp' object has no attribute 'sr_no_var'
+2024-10-02 09:08:53,069 INFO:Database connection closed.
+2024-10-02 09:08:53,069 INFO:Application closed.
+2024-10-02 09:09:58,717 INFO:Database initialized.
+2024-10-02 09:09:59,019 DEBUG:Next Sr. No. fetched: 1
+2024-10-02 09:09:59,019 DEBUG:Form reset for next entry.
+2024-10-02 09:09:59,019 INFO:GUI initialized.
+2024-10-02 09:10:15,308 INFO:Form submission initiated.
+2024-10-02 09:10:22,417 WARNING:Form submission failed with errors: Mobile number must be exactly 10 digits.
+Please enter a valid age between 0 and 120.
+Please enter a valid email address.
+Adhaar Card No. must be exactly 12 digits.
+2024-10-02 09:10:43,465 INFO:Form submission initiated.
+2024-10-02 09:10:45,914 WARNING:Form submission failed with errors: Please enter a valid age between 0 and 120.
+2024-10-02 09:10:50,821 INFO:Form submission initiated.
+2024-10-02 09:10:50,861 INFO:Entry saved: Sr. No. 1, Associate I.D. No. 123
+2024-10-02 09:10:52,295 DEBUG:Next Sr. No. fetched: 2
+2024-10-02 09:10:52,296 DEBUG:Form reset for next entry.
+2024-10-02 09:11:10,963 DEBUG:Next Sr. No. fetched: 2
+2024-10-02 09:11:10,964 DEBUG:Form reset for next entry.
+2024-10-02 09:11:13,088 INFO:Database connection closed.
+2024-10-02 09:11:13,088 INFO:Application closed.
+2024-10-02 09:11:18,217 INFO:Database initialized.
+2024-10-02 09:11:18,906 INFO:GUI initialized.
+2024-10-02 09:11:23,499 DEBUG:Next Sr. No. fetched: 2
+2024-10-02 09:11:23,500 DEBUG:Form reset for next entry.
+2024-10-02 09:12:01,045 INFO:Form submission initiated.
+2024-10-02 09:12:03,572 WARNING:Form submission failed with errors: Adhaar Card No. must be exactly 12 digits.
+Duplicate Associate I.D. No. found.
+2024-10-02 09:12:07,133 INFO:Form submission initiated.
+2024-10-02 09:12:10,496 WARNING:Form submission failed with errors: Adhaar Card No. must be exactly 12 digits.
+Duplicate Associate I.D. No. found.
+2024-10-02 09:12:22,729 INFO:Form submission initiated.
+2024-10-02 09:12:22,734 INFO:Entry saved: Sr. No. 2, Associate I.D. No. 321
+2024-10-02 09:12:24,634 DEBUG:Next Sr. No. fetched: 3
+2024-10-02 09:12:24,635 DEBUG:Form reset for next entry.
+2024-10-02 09:12:30,948 INFO:Database connection closed.
+2024-10-02 09:12:30,948 INFO:Application closed.
+2024-10-02 09:12:33,208 INFO:Database initialized.
+2024-10-02 09:12:33,493 INFO:GUI initialized.
+2024-10-02 09:12:44,501 INFO:Entry deleted: Sr. No. 2
+2024-10-02 09:12:48,655 DEBUG:Next Sr. No. fetched: 2
+2024-10-02 09:12:48,656 DEBUG:Form reset for next entry.
+2024-10-02 09:13:03,455 INFO:Database connection closed.
+2024-10-02 09:13:03,455 INFO:Application closed.
+2024-10-02 09:13:42,096 INFO:Database initialized.
+2024-10-02 09:13:42,404 INFO:GUI initialized.
+2024-10-02 09:13:58,843 INFO:Database connection closed.
+2024-10-02 09:13:58,844 INFO:Application closed.

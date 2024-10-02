@@ -1,0 +1,38 @@
++--------------------------------------------------------+
+|                         ENTRY CARD                     |
++--------------------------------------------------------+
+| Associate I.D. No.: ______________                     |
++--------------------------------------------------------+
+| Sr. No.: ______________   Date: ______________         |
++--------------------------------------------------------+
+| Name: ____________________________________________     |
++--------------------------------------------------------+
+| Mobile: __________________________________________     |
++--------------------------------------------------------+
+| Height: _______             Age: _______              |
++--------------------------------------------------------+
+| E-Mail Id: _______________________________________     |
++--------------------------------------------------------+
+| Adhaar Card No.: ________________________________     |
++--------------------------------------------------------+
+| DOB: ____________________________________________      |
++--------------------------------------------------------+
+
+
+
+I want you to recreate this form in tkinter.
+Make it easy to use for quick bulk entries.
+The data should be save in an sqllite database.
+
+There should be check for checking if the Associate I.D. No.
+is an duplicate.
+DOB should be a selection tool.
+phno always 10 digit long
+fill out current date on date.
+And make the serial no autincrement but allow the user to change it to something new but shouldnt allow
+customer to make it a duplicate.
+Add any other obviuos checks and features that will facilitate fast entries by the user
+
+
+
+python -m PyInstaller --onefile --windowed --add-data "C:\Users\Tapus.Ranjan\PycharmProjects\PR-Monitoring\.venv\Lib\site-packages\tkcalendar\;tkcalendar"  --hidden-import=babel.numbers --hidden-import=babel.dates --hidden-import=babel.core --hidden-import=babel.localtime
